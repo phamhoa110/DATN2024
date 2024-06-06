@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DATN-2024\\UnExpectedJourney\\UnExpectedJourney\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B45B4B-AA38-9C2E-2469-DE862720FFDC}|spine-unity-editor.csproj|f:\\datn-2024\\unexpectedjourney\\unexpectedjourney\\assets\\spine\\spine\\editor\\spine-unity-editor.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E1B45B4B-AA38-9C2E-2469-DE862720FFDC}|spine-unity-editor.csproj|solutionrelative:assets\\spine\\spine\\editor\\spine-unity-editor.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B58BBA0A-61B6-7B62-1C2C-5666DC9ECA2D}|Assembly-CSharp.csproj|f:\\datn-2024\\unexpectedjourney\\unexpectedjourney\\assets\\unexpectedjourney\\scripts\\character\\characterbehaviorstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B58BBA0A-61B6-7B62-1C2C-5666DC9ECA2D}|Assembly-CSharp.csproj|solutionrelative:assets\\unexpectedjourney\\scripts\\character\\characterbehaviorstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B58BBA0A-61B6-7B62-1C2C-5666DC9ECA2D}|Assembly-CSharp.csproj|F:\\DATN-2024\\UnExpectedJourney\\UnExpectedJourney\\assets\\unexpectedjourney\\scripts\\character\\characterbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B58BBA0A-61B6-7B62-1C2C-5666DC9ECA2D}|Assembly-CSharp.csproj|solutionrelative:assets\\unexpectedjourney\\scripts\\character\\characterbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B58BBA0A-61B6-7B62-1C2C-5666DC9ECA2D}|Assembly-CSharp.csproj|F:\\DATN-2024\\UnExpectedJourney\\UnExpectedJourney\\assets\\unexpectedjourney\\scripts\\character\\cantakedamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B58BBA0A-61B6-7B62-1C2C-5666DC9ECA2D}|Assembly-CSharp.csproj|solutionrelative:assets\\unexpectedjourney\\scripts\\character\\cantakedamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B58BBA0A-61B6-7B62-1C2C-5666DC9ECA2D}|Assembly-CSharp.csproj|F:\\DATN-2024\\UnExpectedJourney\\UnExpectedJourney\\assets\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B58BBA0A-61B6-7B62-1C2C-5666DC9ECA2D}|Assembly-CSharp.csproj|solutionrelative:assets\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "spine-unity-editor.asmdef",
+              "DocumentMoniker": "F:\\DATN-2024\\UnExpectedJourney\\UnExpectedJourney\\Assets\\Spine\\Spine\\Editor\\spine-unity-editor.asmdef",
+              "RelativeDocumentMoniker": "Assets\\Spine\\Spine\\Editor\\spine-unity-editor.asmdef",
+              "ToolTip": "F:\\DATN-2024\\UnExpectedJourney\\UnExpectedJourney\\Assets\\Spine\\Spine\\Editor\\spine-unity-editor.asmdef",
+              "RelativeToolTip": "Assets\\Spine\\Spine\\Editor\\spine-unity-editor.asmdef",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001874|",
+              "WhenOpened": "2024-06-03T02:13:07.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CharacterBehaviorState.cs",
+              "DocumentMoniker": "F:\\DATN-2024\\UnExpectedJourney\\UnExpectedJourney\\Assets\\UnExpectedJourney\\scripts\\character\\CharacterBehaviorState.cs",
+              "RelativeDocumentMoniker": "Assets\\UnExpectedJourney\\scripts\\character\\CharacterBehaviorState.cs",
+              "ToolTip": "F:\\DATN-2024\\UnExpectedJourney\\UnExpectedJourney\\Assets\\UnExpectedJourney\\scripts\\character\\CharacterBehaviorState.cs",
+              "RelativeToolTip": "Assets\\UnExpectedJourney\\scripts\\character\\CharacterBehaviorState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T00:03:44.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CharacterBehavior.cs",
+              "DocumentMoniker": "F:\\DATN-2024\\UnExpectedJourney\\UnExpectedJourney\\Assets\\UnExpectedJourney\\scripts\\character\\CharacterBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\UnExpectedJourney\\scripts\\character\\CharacterBehavior.cs",
+              "ToolTip": "F:\\DATN-2024\\UnExpectedJourney\\UnExpectedJourney\\Assets\\UnExpectedJourney\\scripts\\character\\CharacterBehavior.cs",
+              "RelativeToolTip": "Assets\\UnExpectedJourney\\scripts\\character\\CharacterBehavior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T00:03:43.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CanTakeDamage.cs",
+              "DocumentMoniker": "F:\\DATN-2024\\UnExpectedJourney\\UnExpectedJourney\\Assets\\UnExpectedJourney\\scripts\\character\\CanTakeDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\UnExpectedJourney\\scripts\\character\\CanTakeDamage.cs",
+              "ToolTip": "F:\\DATN-2024\\UnExpectedJourney\\UnExpectedJourney\\Assets\\UnExpectedJourney\\scripts\\character\\CanTakeDamage.cs",
+              "RelativeToolTip": "Assets\\UnExpectedJourney\\scripts\\character\\CanTakeDamage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T00:03:42.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "F:\\DATN-2024\\UnExpectedJourney\\UnExpectedJourney\\Assets\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\PauseMenu.cs",
+              "ToolTip": "F:\\DATN-2024\\UnExpectedJourney\\UnExpectedJourney\\Assets\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\PauseMenu.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T06:59:54.877Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
